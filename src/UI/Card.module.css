@@ -1,0 +1,7 @@
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(143, 143, 143);
+    box-shadow: 0.2rem 0.2rem 0.5rem;
+}
